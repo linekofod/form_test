@@ -1,0 +1,22 @@
+h3 {
+    font-size: 18px;
+    margin: 0;
+}
+
+.flex_form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+}
+
+/* .form-felt {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+} */
